@@ -159,6 +159,7 @@
     DECL(ert_amr) \
     DECL(klimalogg) \
     DECL(visonic_powercode) \
+    DECL(unicom_66125) \
 
     /* Add new decoders here. */
 
